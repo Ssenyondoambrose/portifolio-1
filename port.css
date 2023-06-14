@@ -1,0 +1,24 @@
+*{  margin:auto;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    justify-content:space-between;
+    gap: 30px;
+}
+.navbar{
+    display: flex;
+    text-align: center;
+    size: 2rem;
+    font-style: oblique;
+    font-weight:bolder;
+    font-size:medium;
+}
+#page1{
+    text-align: center;
+    display:flexbox;
+    inline-size: auto;
+}
+.projects{
+    text-align: center;
+    gap :12px
+}
+.about-container{height:100vh;}
